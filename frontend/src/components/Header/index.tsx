@@ -10,7 +10,7 @@ function Header() {
                 <h1>LR Vendas</h1>
                 <p>
                     Desenvolvido por
-                    <a href="https://www.instagram.com/_luisrondon">@_luisrondon</a>
+                    <a href="https://www.instagram.com/_luisrondon"> @_luisrondon </a>
                 </p>
             </div>
         </header>
